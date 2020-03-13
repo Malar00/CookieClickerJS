@@ -14,7 +14,7 @@
             document.getElementById('priceTwo').innerHTML = (document.getElementById('priceTwo').innerHTML*2).toString();
         }
         function priceThree() {
-            document.getElementById('priceThree').innerHTML = (document.getElementById('priceTwo').innerHTML*2).toString();
+            document.getElementById('priceThree').innerHTML = (document.getElementById('priceThree').innerHTML*2).toString();
         }
         function addone() {
             var value = parseInt(document.getElementById('num').value, 10);
