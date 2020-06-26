@@ -1,1 +1,1 @@
-# CookieClickerJSTest
+# CookieClickerJS
